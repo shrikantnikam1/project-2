@@ -29,3 +29,5 @@ console.log("N");
 console.log("O");
 console.log("P");
 console.log("Q");
+console.log("R");
+console.log("S");
