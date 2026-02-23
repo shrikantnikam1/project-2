@@ -11,9 +11,10 @@ app.get("/api/products", (req, res) => {
     { id: 4, name: "Yellow Tapestry", price: 2500 },
     { id: 5, name: "Purple Ceramic", price: 1800 }
     { id: 6, name: "Orange Print", price: 1200 }
+    { id: 7, name: "Pink Glass", price: 2200 }
   ]);
 });
 
 app.listen(5000, () => {
-  console.log("Server running on port 5000");
+  console.log("Server running on port 5000 g");
 });
